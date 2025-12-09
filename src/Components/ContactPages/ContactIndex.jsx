@@ -8,8 +8,8 @@ function ContactIndex() {
   const [contactList, setContactList] = useState([
     {
       id: 1,
-      name: "Aditya",
-      email: "aditya@gmail.com",
+      name: "Aditya-Ozalwar",
+      email: "adityaozalwar03@gmail.com",
       phone: 123123123,
       isFavorite: true,
     },
